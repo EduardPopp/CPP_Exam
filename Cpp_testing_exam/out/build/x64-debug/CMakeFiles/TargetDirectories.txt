@@ -1,0 +1,13 @@
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/CMakeFiles/edit_cache.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Cpp_testing_exam/CMakeFiles/Cpp_testing_exam.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Cpp_testing_exam/CMakeFiles/fclean.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Cpp_testing_exam/CMakeFiles/re.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Cpp_testing_exam/CMakeFiles/edit_cache.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Cpp_testing_exam/CMakeFiles/rebuild_cache.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Task_2/CMakeFiles/Task_2.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Task_2/CMakeFiles/edit_cache.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Task_2/CMakeFiles/rebuild_cache.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Task_3/CMakeFiles/Task_3.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Task_3/CMakeFiles/edit_cache.dir
+P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug/Task_3/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,144 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Cpp_testing_exam",
+					"jsonFile" : "directory-Cpp_testing_exam-Debug-8bc9e6f39e6bcf9284cd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Cpp_testing_exam",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "Task_2",
+					"jsonFile" : "directory-Task_2-Debug-4e5f9bf9e7785a896207.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Task_2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Task_3",
+					"jsonFile" : "directory-Task_3-Debug-2dd877ffb2f4bd98cae2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Task_3",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "Cpp_testing_exam",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Cpp_testing_exam::@179a8e4b580389b38e7f",
+					"jsonFile" : "target-Cpp_testing_exam-Debug-3b6c91e7d71f39d26a2f.json",
+					"name" : "Cpp_testing_exam",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Task_2::@864b83540094888698cd",
+					"jsonFile" : "target-Task_2-Debug-bdcded6e72ccc03d1ed9.json",
+					"name" : "Task_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Task_3::@8f13bd60b816abd8c254",
+					"jsonFile" : "target-Task_3-Debug-bcbc74b6bc2fa0c54cdd.json",
+					"name" : "Task_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fclean::@179a8e4b580389b38e7f",
+					"jsonFile" : "target-fclean-Debug-63d0c6d8ebf7b66a7d78.json",
+					"name" : "fclean",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "re::@179a8e4b580389b38e7f",
+					"jsonFile" : "target-re-Debug-5f5fafb6e90029d13bc9.json",
+					"name" : "re",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "P:/0 - programming/CPP test Exam/Cpp_testing_exam/out/build/x64-debug",
+		"source" : "P:/0 - programming/CPP test Exam/Cpp_testing_exam"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

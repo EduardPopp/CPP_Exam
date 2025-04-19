@@ -1,0 +1,10 @@
+# ninja log v5
+4	5345	7666786603058857	Cpp_testing_exam/CMakeFiles/Cpp_testing_exam.dir/Cpp_testing_exam.cpp.obj	6a7ddc8503e0ff3d
+5345	6786	7666786615835908	Cpp_testing_exam/Cpp_testing_exam.exe	a703907b4732244
+28	1961	7666881111705870	Task_2/CMakeFiles/Task_2.dir/task2.cpp.obj	2a289b1cc35666c6
+1962	2604	7666881116320590	Task_2/Task_2.exe	57b32bc1399406f2
+25	1636	7667066942733341	Task_3/CMakeFiles/Task_3.dir/task3.cpp.obj	f5e94bc7b1e09b37
+1637	2451	7667066949506959	Task_3/Task_3.exe	451ce0ca2fa0dcf5
+4	1809	7667404900895206	Task_3/CMakeFiles/Task_3.dir/task3.cpp.obj	f5e94bc7b1e09b37
+17	1810	7667404900965188	Task_3/CMakeFiles/Task_3.dir/task4.cpp.obj	ee60ab23394f9bce
+1810	2799	7667404909726621	Task_3/Task_3.exe	4e41359315bc2456

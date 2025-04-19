@@ -1,0 +1,13 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Cpp_testing_exam.exe (Cpp_testing_exam\\Cpp_testing_exam.exe)",
+      "name": "Cpp_testing_exam.exe (Cpp_testing_exam\\Cpp_testing_exam.exe)",
+      "args": [ "" ]
+    }
+  ]
+}
